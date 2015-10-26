@@ -15,4 +15,4 @@ To date, we've verified that the adapter works with the 12.1.2.1.2.X series of G
 The adapter needs to be built with a version of Java that is compatible with the version running on the GoldenGate server!
 
 ## Going forward...
-In the future, we have plans to allow the adapter to integrate with the [Confluent](http://confluent.io) stream data platform 
+In the future, we have plans to allow the adapter to integrate with the [Confluent](http://confluent.io) stream data platform and the Copycat framework. 
